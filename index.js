@@ -21,7 +21,7 @@ if (string === string.toLowerCase()) { // compare the argument to itself
   return 'I can\'t hear you!' // Was missing the \'
 } 
 else if (string === string.toUpperCase()) { // comapre the argument to itself
-  console.log('YES INDEED!')
+  console.log('YES INDEED')
 } 
 else if (string === mixedCase){
   return ('I love you, too.')
